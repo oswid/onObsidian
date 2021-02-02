@@ -1,0 +1,1 @@
+### Wox plugin for obsidian for creating fast adds to the file
